@@ -1,2 +1,2 @@
 Data available in the link shown in the paper.
-Copy here :)
+To run the scripts, please move the data here :)
